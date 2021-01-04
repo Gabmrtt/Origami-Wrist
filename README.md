@@ -1,7 +1,7 @@
 # Origami-Wrist Study
 
-The following reopositery contains all the codes used for the semester project I undertook at the Robotic Reconfigurable Laboratory - EPFL. 
-The purpose of this project has been to collect data on a soft robotic structure while activating different types of actuators, to then create a neural network in order to generalize the predictions. 
+The following repositery contains all  codes used for the semester project I undertook at the Robotic Reconfigurable Laboratory - EPFL. 
+The purpose of this project has been to collect data on a soft robotic structure while activating different types of actuators, to then create a neural network in order to generalize the predictions, and to characterize the actuators effect.
 
 The project contained an important part regarding data collection as the architecture of the robot required a special setup to efficiently gather data. 
 
